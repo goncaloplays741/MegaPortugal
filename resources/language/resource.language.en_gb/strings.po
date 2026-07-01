@@ -1,0 +1,475 @@
+# Kodi Media Center language file
+# Addon Name: Mega Portugal
+# Addon id: plugin.video.Mega.Portugal
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.Mega.Portugal\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Default home page"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Home"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Live TV"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Movies"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Series"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Show Welcome category"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Show VIP category"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Maintenance"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Clear last list/group"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Clear subtitle cache"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Clear EPG cache"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Clear Live TV navigation cache"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Clear catalog and Pluto cache"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Diagnostics"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Debug mode"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Show quick error notifications"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Channel opening mode"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Always ask"
+msgstr ""
+
+msgctxt "#30019"
+msgid "M3U8"
+msgstr ""
+
+msgctxt "#30020"
+msgid "MPEGTS"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Confirm before playing live TV channel"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Hide empty groups"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Remember last list used"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Remember last group opened"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Protection"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Show adult categories protected by PIN"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Change adult categories PIN"
+msgstr ""
+
+msgctxt "#30028"
+msgid "EPG"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Enable background EPG for lists"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Show current program in channel name"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Internal XMLTV technical limit"
+msgstr ""
+
+msgctxt "#30032"
+msgid "1 day"
+msgstr ""
+
+msgctxt "#30033"
+msgid "2 days"
+msgstr ""
+
+msgctxt "#30034"
+msgid "3 days"
+msgstr ""
+
+msgctxt "#30035"
+msgid "4 days"
+msgstr ""
+
+msgctxt "#30036"
+msgid "5 days"
+msgstr ""
+
+msgctxt "#30037"
+msgid "6 days"
+msgstr ""
+
+msgctxt "#30038"
+msgid "7 days"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Internal adult categories compatibility"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Adult categories PIN"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Last list"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Last list name"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Last group"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Last group URL"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Home view applied"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Home view skin signature"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Live TV view applied"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Live TV view skin signature"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Native Proxy"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Proxy operating profile"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Fast"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Balanced"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Stable"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Smart source memory (advanced)"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Extra tolerance for problematic Xtream sources"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Use alternate DNS in addon (only for blocking)"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Proxy technical log"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Pluto TV"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Show Pluto TV in Live TV"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Show Pluto Movies in Movies"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Show Pluto Series in Series"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Pluto country"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Select when opening"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "#30065"
+msgid "United States"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Spain"
+msgstr ""
+
+msgctxt "#30068"
+msgid "France"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Italy"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Germany"
+msgstr ""
+
+msgctxt "#30071"
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Canada"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Australia"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Chile"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Open Pluto TV in"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Channels"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Categories"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Hide channels without logo"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Merge duplicate items between countries"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Prefer content from selected country"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Show Pluto TV EPG"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Pluto EPG timezone"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "#30086"
+msgid "From selected country"
+msgstr ""
+
+msgctxt "#30087"
+msgid "Catalog"
+msgstr ""
+
+msgctxt "#30088"
+msgid "Metadata language"
+msgstr ""
+
+msgctxt "#30089"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+msgctxt "#30090"
+msgid "English (United States)"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Catalog region"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Items per page"
+msgstr ""
+
+msgctxt "#30095"
+msgid "Hide items without poster"
+msgstr ""
+
+msgctxt "#30096"
+msgid "Movie flow"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Go directly to sources"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Open details before sources"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Autoplay best source"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Quality priority"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Best quality"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Lightest"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Enable automatic subtitles"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Preferred subtitle language"
+msgstr ""
+
+msgctxt "#30107"
+msgid "English"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Fallback language"
+msgstr ""
+
+msgctxt "#30109"
+msgid "None"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Clear old subtitles before playback"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Notify when no subtitles are found"
+msgstr ""
+
+msgctxt "#30113"
+msgid "20"
+msgstr ""
+
+msgctxt "#30114"
+msgid "40"
+msgstr ""
+
+msgctxt "#30115"
+msgid "60"
+msgstr ""

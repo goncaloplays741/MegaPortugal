@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.Mega.Portugal" 
+	   version="1.0.0" 
+       name="[B][COLOR white]MEGA[/COLOR] [COLOR red]PORTUGAL[/COLOR][/B]" 
+	   provider-name="Mega Portugal Team"> 
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests"/>
+        <import addon="inputstream.adaptive" />
+        <import addon="script.module.inputstreamhelper"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="pt">Mega Portugal — TV ao vivo portuguesa com Sport TV, RTP, SIC, TVI e muito mais.</summary>
+        <summary lang="en">Mega Portugal — Portuguese live TV with Sport TV, RTP, SIC, TVI and more.</summary>
+        <description lang="pt">Mega Portugal é um addon para Kodi que agrega canais de televisão portugueses, incluindo Sport TV 1-6, RTP 1/2/3, SIC, TVI, CNN Portugal e muito mais. Com EPG incluído para ver a programação atual.</description>
+        <description lang="en">Mega Portugal is a Kodi addon that aggregates Portuguese television channels, including Sport TV 1-6, RTP 1/2/3, SIC, TVI, CNN Portugal and more. With built-in EPG to see the current programming.</description>
+        <platform>all</platform>
+        <disclaimer lang="pt">O autor não hospeda conteúdos e não tem relação com provedores. Este complemento só faz a busca em sites de terceiros. Use por sua conta e risco.</disclaimer>
+        <disclaimer lang="en">The author does not host content and has no relation with providers. This addon only searches third-party sites. Use at your own risk.</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>        
+    </extension>
+</addon>
